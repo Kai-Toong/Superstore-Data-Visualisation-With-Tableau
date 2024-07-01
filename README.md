@@ -1,2 +1,2 @@
 # Superstore-Data-Visualisation-With-Tableau
-This project will explore the Superstore dataset provided by Tableau Public to create various charts which will ultimately be summarised into a dashboard to present the key findings. 
+This project will explore an EU Superstore dataset provided by Tableau Public to create various charts and they will be summarised into a dashboard to present the key findings. The PDF file shows the various charts and dashboard that were created using Tableau. Alternatelively, you can visit this project with the link that I have uploaded on my Tableau Public account: https://public.tableau.com/app/profile/kai.toong.ho/viz/SuperstoreVisualizationWithTableau/Dashboard
